@@ -39,7 +39,7 @@ def win_check():
     return False
 
 
-user_start = input("You are starting a landscaping business, but all you have are your teeth to start cutting grass and make money [S] Start earing money [Q] Not worth doing")
+user_start = input("You are starting a landscaping business, but all you have are your teeth to start cutting grass and make money [S] Start earing money [Q] Not worth doing and find a sugar daddy")
     
 if (user_start == "Q"):
         print("Good luck hope that works out if not come back and make some money")
